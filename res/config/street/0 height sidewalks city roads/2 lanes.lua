@@ -42,8 +42,8 @@ function data()
 				size = { 6.0, .5 }
 			},
 			streetStripeMedian = {
-				name = "street/new_large_median.mtl",
-				size = { 4.0, 1 }
+				name = "street/new_medium_stripes.mtl",
+				size = { 6.0, .5 }
 			},
 			streetTram = {
 				name = "street/new_medium_tram_paving.mtl",
